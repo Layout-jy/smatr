@@ -1,0 +1,22 @@
+#home {
+  height: 100%; }
+
+#home header {
+  height: .7rem;
+  position: relative; }
+
+#home header .logo {
+  height: .38rem;
+  width: .38rem;
+  background-image: url(../../assets/img/B40CCEF8-7432-400C-97AA-FDDE469A6B20.png);
+  background-size: 100% 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto; }
+
+#home main {
+  position: relative;
+  margin-bottom: 1rem; }

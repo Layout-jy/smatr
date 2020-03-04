@@ -1,0 +1,23 @@
+#home .home-box {
+  margin-bottom: .18rem; }
+  #home .home-box ::-webkit-scrollbar {
+    display: none; }
+
+#home .home-box .bg-image-box {
+  height: 2.1rem;
+  margin-top: .26rem;
+  padding: 0 .3rem; }
+
+#home .home-box .bg-image-box figure {
+  height: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0; }
+
+#home .home-box .goods-list-wrap {
+  height: 3.32rem;
+  margin-top: -.4rem;
+  overflow-y: hidden;
+  overflow-x: auto;
+  clear: both;
+  display: flex; }

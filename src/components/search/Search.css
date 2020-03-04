@@ -1,0 +1,16 @@
+.searchBar {
+  height: .96rem;
+  padding: .18rem .24rem; }
+
+.searchBar .search-bar-wrap {
+  height: 100%;
+  border: .02rem solid #ccc;
+  border-radius: .3rem;
+  padding: .12rem;
+  text-align: start;
+  font-size: .26rem;
+  color: #ccc; }
+
+.searchBar .search-bar-wrap i {
+  margin: 0 .1rem;
+  color: #aaa; }
